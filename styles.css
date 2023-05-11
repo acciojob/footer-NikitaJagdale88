@@ -6,47 +6,47 @@
 }
 footer{
     background-color: black;
-color: white;
-font-family: sans-serif;
-display: flex;
-flex-direction:column;
-padding-top:1rem;
+    color: white;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction:column;
+    padding-top:1rem;
 }
 .top{
     display: flex;
-justify-content: space-between;
-padding:1rem 1.3rem;
-/* border:2px solid white; */
-text-align: center;
+    justify-content: space-between;
+    padding:1rem 1.3rem;
+    /* border:2px solid white; */
+    text-align: center;
 }
 .top .logo_name{
     font-size:2.4rem;
 }
 .top .media-icons{
     display: flex;
-justify-content: space-evenly;
-width: 378px;
+    justify-content: space-evenly;
+    width: 378px;
 }
 .top .media-icons>a{
     text-decoration: none;
 }
 .media-icons img{
     width:50px;
-height:45px;
+    height:45px;
 }
 
 /* link-boxes------------- */
 
 .link-boxes{
- display: flex;
-/* justify-content: space-evenly; */
-justify-content: space-around;
-margin:2rem 0;
+   display: flex;
+  /* justify-content: space-evenly; */
+  justify-content: space-around;
+  margin:2rem 0;
 }
 .link-boxes>div{
-text-align:left;
-display:flex;
-flex-direction:column;
+   text-align:left;
+   display:flex;
+   flex-direction:column;
 }
 
 .link-boxes>div>h3{
